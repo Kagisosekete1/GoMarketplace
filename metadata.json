@@ -1,0 +1,7 @@
+{
+  "name": "GoMarket AI",
+  "description": "A modern marketplace application powered by Gemini. Users can browse listings, search for items, and create their own listings with AI-powered assistance for generating titles, categories, and descriptions from an image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
